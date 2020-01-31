@@ -1,0 +1,10 @@
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\bin\Debug\Prog2370LiamDowlingAssignment3.exe.config
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\bin\Debug\Prog2370LiamDowlingAssignment3.exe
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\bin\Debug\Prog2370LiamDowlingAssignment3.pdb
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.csprojAssemblyReference.cache
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.Form1.resources
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.Properties.Resources.resources
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.csproj.GenerateResource.cache
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.exe
+C:\Users\liamd\source\repos\Prog2370LiamDowlingAssignment3\Prog2370LiamDowlingAssignment3\obj\Debug\Prog2370LiamDowlingAssignment3.pdb
